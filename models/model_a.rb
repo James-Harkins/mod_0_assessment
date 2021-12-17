@@ -1,4 +1,4 @@
-dinosaur = {
+dinosaur_characteristics = {
   "genus" => "Tyrannosaurus",
   "species" => "Rex",
   "num_legs" => 2,
